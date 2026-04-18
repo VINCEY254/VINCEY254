@@ -1,4 +1,4 @@
-Hi, I'm Vincent Nyakundi 👋
+Hi, I'm Vincent Nyakundi 
 
  Cloud Engineering | DevOps | Cybersecurity | AI
 
@@ -15,16 +15,7 @@ My interests lie at the intersection of **cloud infrastructure, DevOps practices
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**
-- Python  
-- JavaScript  
-- C++  
-
-**Web Development**
-- HTML  
-- CSS  
+ 
 
 **Cloud & DevOps**
 - AWS (learning & building)  
@@ -37,7 +28,7 @@ My interests lie at the intersection of **cloud infrastructure, DevOps practices
 - Excel  
 - Data structuring & workflows  
 
----
+
 
  📌 Featured Projects
 
@@ -46,21 +37,18 @@ My interests lie at the intersection of **cloud infrastructure, DevOps practices
 - CI/CD pipeline for automated builds and deployment  
 - Focus: scalability, automation, and system design  
 
----
 
  🔹 Secure Authentication System *(In Progress)*
 - User authentication with secure password handling  
 - Input validation and basic vulnerability protection  
 - Focus: backend security and system integrity  
 
----
 
  🔹 Automated Data Pipeline *(In Progress)*
 - Data collection, processing, and storage system  
 - Workflow automation and structured data handling  
 - Focus: data flow and process optimization  
 
----
 
  📈 What I'm Building Towards
 - Cloud-native application architecture  
